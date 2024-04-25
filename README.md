@@ -16,4 +16,4 @@ Below is the summary of my activities and projects
 
 4.<a href="2A_ALCANTARA_EXER7.ipynb">2A-ALCANTARA-EXER7</a>
 
-2.<a href="2A_ALCANTARA_MIDTERM.ipynb">2A-ALCANTARA-MIDTERM</a>
+5.<a href="2A_ALCANTARA_MIDTERM.ipynb">2A-ALCANTARA-MIDTERM</a>
